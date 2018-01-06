@@ -1,0 +1,10 @@
+name        = "B52 Core";
+author      = "Badca52";
+picture     = "52.paa";
+logo        = "52.paa";
+logoOver    = "52.paa";
+actionName  = "Website";
+action      = "http://www.github.com/Badca52";
+tooltip     = "B52 Core";
+overview    = "B52 Core";
+description = "B52 Core";
